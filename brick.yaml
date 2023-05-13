@@ -3,7 +3,7 @@ description: A brick to add cache_network_image with customizations like border 
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/i-am-ijaz/my_network_image
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
